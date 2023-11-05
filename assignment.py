@@ -1,6 +1,6 @@
 import random
 
-#comment
+
 print("Welcome to FCMB  member account creation")
 Dashboard1=print("welcome to FCMB dashboard what do you want to do Create account,Account Balance, Transfer ")
 Dashboard2=input()
